@@ -7,7 +7,7 @@ Seja bem-vindo(a) ao meu perfil! <img src="https://media.giphy.com/media/hvRJCLF
 
 # Olá, eu sou o Leandro! 👋🏾👨🏾‍💻
 
-💼 Tecnico em Eletrotécnica pela [Eterj](https://www.eterj.com.br/).<br>
+💼 Técnico em Eletrotécnica pela [Eterj](https://www.eterj.com.br/).<br>
 🎓 Análise e desenvolvimento de sistemas na [Estácio](https://estacio.br/).
 
 
@@ -18,3 +18,6 @@ Seja bem-vindo(a) ao meu perfil! <img src="https://media.giphy.com/media/hvRJCLF
 [![Gmail Badge](https://img.shields.io/badge/-leaandroallves@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leaandroallves@outlook.com)](mailto:leaandroallves@outlook.com)
 
 </div>
+
+## ⚒️: Ferramentas que utilizo:
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=fat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=fat-square&logo=Python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/-Git-yellow?style=fat-square&logo=git) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=fat-square&logo=visual-studio-code&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-a08021?style=fat-square&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/MySql-4479A1.svg?style=fat-square&logo=mysql&logoColor=white)
