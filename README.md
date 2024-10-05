@@ -4,8 +4,9 @@ Seja bem-vindo(a) ao meu perfil! <img src="https://media.giphy.com/media/hvRJCLF
 <hr>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="900">
 
-
-# Olá, eu sou o Leandro! 👋🏾👨🏾‍💻
+<div align="center">
+  
+## Olá, eu sou o Leandro! 👋🏾👨🏾‍💻</div>  
 
 💼 Técnico em Eletrotécnica pela [Eterj](https://www.eterj.com.br/).<br>
 🎓 Análise e desenvolvimento de sistemas na [Estácio](https://estacio.br/).
