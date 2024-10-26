@@ -4,13 +4,14 @@
 <hr>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="900">
 
-<div align="center">
+<br>
   
+
+## Escolaridade:
 
 
 💼 Técnico em Eletrotécnica pela [Eterj](https://www.eterj.com.br/).<br>
 🎓 Análise e desenvolvimento de sistemas na [Estácio](https://estacio.br/).
-
 
 ## 📫 Como entrar em contato comigo:
 
